@@ -2,7 +2,7 @@
 
 Hi, I'm Yuya Matsushima, Web Developer from Japan.
 
-- :office: I'm currently working on [fillin Inc.](https://www.fillin-inc.com)
+- :office: I'm currently working on [fillin Inc.](https://fillin-inc.com)
     - I work mainly with Ruby, JavaScript and Go.
     - I also work with PHP occasionally.
 
@@ -22,7 +22,7 @@ Hi, I'm Yuya Matsushima, Web Developer from Japan.
 
 ### :mailbox: Contact
 
-[![fillin Inc.](https://img.shields.io/badge/-fillin%20Inc.-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.fillin-inc.com)
+[![fillin Inc.](https://img.shields.io/badge/-fillin%20Inc.-000000?style=for-the-badge&logo=safari&logoColor=white)](https://fillin-inc.com)
 [![Bluesky](https://img.shields.io/badge/-Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/ymatsushima.bsky.social)
 [![Blog](https://img.shields.io/badge/-issueoverflow.com-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://issueoverflow.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuya-matsushima/)
