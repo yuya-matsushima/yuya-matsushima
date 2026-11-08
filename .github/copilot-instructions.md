@@ -1,5 +1,3 @@
-# GitHub Copilot instructions
-
 このリポジトリの基本方針は [AGENTS.md](../AGENTS.md) に従うこと。
 
 特に以下を守ること。
