@@ -16,9 +16,7 @@
 ## 技術スタック
 
 - Markdown(GitHub Flavored Markdown)
-- README 内で利用している外部サービス:
-  - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)(統計画像)
-  - [shields.io](https://shields.io)(バッジ画像)
+- README 内で利用している外部サービス: [shields.io](https://shields.io)(バッジ画像)
 
 ## ビルド・開発コマンド
 
